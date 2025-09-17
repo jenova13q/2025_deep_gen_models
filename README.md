@@ -79,8 +79,11 @@
 
 ### Пример генерации
 
+#### rank4
 <img width="831" alt="image" src="./images/lora_4.png" title="rank4">
+#### rank16
 <img width="831" alt="image" src="./images/lora_16.png" title="rank16">
+#### rank24
 <img width="831" alt="image" src="./images/lora_24.png" title="rank24">
 
 ### Вывод
@@ -161,15 +164,22 @@ prompt = "a photo of sks face, best quality, extremely detailed, 4k, hdr, super 
 **Unet**
 
 <img width="335" alt="image" src="./images/test_cn_sd.png">
+```
+prompt = "a photo of sks face, best quality, extremely detailed, 4k, hdr, super resolution"
+```
 
 <img width="335" alt="image" src="./images/test_cn_potato_sd.png">
 ```
 prompt = "a photo of sks face, best quality, extremely detailed, 4k, hdr, super resolution"
 ```
 
+
 **Lora адаптер rank 16**
 
 <img width="335" alt="image" src="./images/test_cn_lora.png">
+```
+prompt = "a photo of sks face, best quality, extremely detailed, 4k, hdr, super resolution"
+```
 
 ### Вывод
 Лора делает более детальный фон и одежду, но лицо у Юнета более похоже. Так же еще сделали Потато фейс для веселья. На всех изображениях сохраняется поза, композиция и расположение объекта
