@@ -131,7 +131,7 @@ prompt_list = [
 | urban cafe | <img width="500" alt="image" src="./images/sd_1.png"> | <img width="500" alt="image" src="./images/lora_24_1.png"> |
 | street | <img width="500" alt="image" src="./images/sd_2.png"> | <img width="500" alt="image" src="./images/lora_24_2.png">
 | japanese garden | <img width="500" alt="image" src="./images/sd_3.png"> | <img width="500" alt="image" src="./images/lora_24_3.png">|
-| bookshop | <img width="500" alt="image" src="./images/sd_4.png"> | <img width="500" alt="image" src="./images/lora_16.png"> |
+| bookshop | <img width="500" alt="image" src="./images/sd_4.png"> | <img width="500" alt="image" src="./images/lora_24_4.png"> |
 
 
 
